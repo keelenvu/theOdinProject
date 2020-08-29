@@ -1,0 +1,184 @@
+* {
+ margin: 0;
+}
+
+body {
+ background-color: #ECEEF1;
+}
+
+h2, h3, p {
+ font-family: "AvenirNext", Avenir, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.grayfont {
+ color: #4C4C4C;
+}
+
+a {
+ text-decoration: none;
+ color: #0077C5;
+}
+
+.flex {
+ display: flex;
+}
+
+.nav-bar {
+ justify-content: flex-end;
+}
+
+
+.fa-lock {
+ padding-right: 0.5rem;
+}
+
+#sign {
+ font-size: 90%;
+}
+
+.icons {
+ height: 2.2%;
+ width: 2.2%;
+ padding: .6em 0 0 0;
+}
+
+
+.quickbook {
+ height: 2%;
+ width: 2%;
+ padding-top: .7em;
+}
+
+.intuit {
+ text-align: center;
+ padding-top: 2rem;
+ font-size: 200%;
+ color: gray;
+ opacity: 80%;
+}
+
+.account-forms {
+ background-color: white;
+ text-align: center;
+ width: 30%;
+ border: 1px solid lightgray;
+ justify-content: center;
+ position: relative;
+ left: 35%;
+ margin: 1.3em 0;
+}
+
+.copyright {
+ text-align: center;
+ font-size: 75%;
+ color: #505050;
+ padding-bottom: 2em;
+
+}
+
+.lps {
+ padding: 0 .7em; 
+}
+
+.button {
+ background-color: #0077C5;
+ color: white;
+ border-radius: 4px;
+ border: 1px solid #4c4c4c;
+}
+
+.signin-button {
+ padding:  .45em 1.4em; 
+}
+
+#signin {
+ padding-top: .3em;
+}
+
+.signin-container {
+ padding: .5em 3em 0 .75em; 
+}
+
+.useridpass {
+ padding-top: 1em;
+ font-size: 70%;
+}
+
+.one {
+ padding-top: .3em;
+}
+
+
+.terms {
+ padding: .8rem 0 3rem 0;
+
+}
+
+.input-box {
+margin-bottom: 2em;
+width: 20rem;
+height: 2rem;
+font-size: 90%;
+}
+
+.createacc-container {
+ display: flex;
+ justify-content: center;
+ padding: 2rem 0 2rem 0 ; 
+}
+
+.justify-center {
+ justify-content: center;
+}
+
+.create-head {
+ font-size: 150%;
+ padding: 1em 0 .5em 0;
+}
+
+.oneacc-desc {
+ font-size: 90%;
+}
+
+.learnmore {
+ padding-bottom: 3em;
+ font-size: 80%;
+}
+
+.acc-button {
+ padding: 1.3em 6em;
+ border: none;
+}
+
+.captcha {
+ background-color: #ECEEF1;
+ font-size: 70%;
+ padding: 2em;
+ color: gray;
+}
+
+.icon-text {
+ padding: .5em .3em 0 .05em; 
+ font-size: 120%;
+ color: #6b6c72;;
+}
+
+.input-text {
+ position: relative;
+ left: 2.2em;
+ bottom: .5em;
+ text-align: justify;
+ font-size: 85%;
+}
+
+.phone{
+ margin: 0em;
+}
+
+.standard {
+font-size: 60%;
+position: relative;
+right: 7.2em;
+padding-top: .5em;
+padding-bottom: 4.5em;
+}
